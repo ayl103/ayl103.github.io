@@ -87,7 +87,7 @@
       <div class="clear"> </div>
 
       <div class="main-content">
-        <div class="categories">
+         <a name="projectGrid"><div class="categories"></a>
          <nav id="nav-filter-cat" style="margin-left:13%; margin-right:13%;">
           <input type="radio" id="all" name="thesis-category" checked/>
           <label for="all" onclick="loadCategory('all')">All</label>
@@ -120,7 +120,7 @@
           </div>
         </div> -->
         <div class="fixedrighttitle">
-          <a name="projectGrid"><ul class="students-list grid"></a>
+          <ul class="students-list grid">
             <script id="students-template" type="x-handlebars-template">​
             {{#each this}}
             <li class="grid-item grid-item--width2 grid-item--height6 {{project.thesis-category}}" data-index="{{id}}">
