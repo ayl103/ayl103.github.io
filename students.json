@@ -566,7 +566,7 @@
       "website": "huangnann168.wixsite.com/thesis",
       "thesis-category": ["Cultural/Issues"],
       "coverImage": "coverImage.jpg",
-      "image": ["1.JPG", "2.jpg"],
+      "image": ["1.jpg", "2.png"],
       "tags": ["An experimental digital instrument", "Novel musical interface", "Traditional Chinese art "],
       "description": ["An experimental digital instrument inspired by the ancient Erhu, the project enables musicians’ sensor-based manipulation of Ehru-like sounds by their mimicking its bowing and gestural hand movements with a novel musical interface."],
       "studio-professor-1": "Anthony Deen",
@@ -1294,7 +1294,7 @@
   {
     "id": 50,
     "name": "Lauren Petty",
-    "profile-pic": "",
+    "profile-pic": "laurenP.jpg",
     "social": {
       "portfolio": "http://www.laurenpetty.org",
       "facebook": "",
