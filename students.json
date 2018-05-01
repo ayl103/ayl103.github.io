@@ -1054,19 +1054,19 @@
       "twitter": "",
       "other": ""
     },
-    "aboutme": [""],
+    "aboutme": ["Tongkwai L. is a multidisciplinary artist based in NYC. "],
     "project": {
-      "title": "",
+      "title": "HumiXen 76.5 - A possessed vernacular for climate control",
       "website": "",
-      "thesis-category": [""],
-      "coverImage": "",
-      "image": [""],
-      "tags": [""],
-      "description": [""],
-      "studio-professor-1": "",
-      "writing-professor-1": "",
-      "studio-professor-2": "",
-      "writing-professor-2": ""
+      "thesis-category": ["Installation", "Speculative/Critical", "Culture/Issues"],
+      "coverImage": "coverImage.jpg",
+      "image": ["1.png"],
+      "tags": ["Speculative linguistic theory", "Meta-Folklore", "3D & Sound Art"],
+      "description": ["\"HumiXen 76.5\" is a audio/visual proposal for an auxiliary strategy of climate controlled environments (Micro Climates), using a Thai-based palm plantation/ mill as a test site. The piece features a collection of 3d-rendered shrines - each one being in control of the climate of different rooms, dedicated to the different stages of the palm fruit/oil extraction.","Using spirit possession as design method,  the satellite structures \"speak\" on behalf of the discarnate, and invert the claim by which climate is thought to be a determining factor in the emancipation of tonal and dessicated languages."],
+      "studio-professor-1": "Aya Karpinska",
+      "writing-professor-1": "Loretta Wolozin",
+      "studio-professor-2": "Jesse Harding",
+      "writing-professor-2": "Chris Prentice"
     }
   },
   {
@@ -1649,26 +1649,26 @@
     "name": "Leah Takele",
     "profile-pic": "leah.jpg",
     "social": {
-      "portfolio": "",
+      "portfolio": "http://leahtakele.com",
       "facebook": "",
       "instagram": "",
       "linkedin": "",
       "twitter": "",
-      "other": ""
+      "other": "@leahtak_ "
     },
-    "aboutme": [""],
+    "aboutme": ["Leah Takele is a New York based creative producer specializing in digital media and design. Raised in California, her work experiences range from political campaigns such as Hillary Clinton for America to entertainment with time spent at Dick Clark Productions, Revolt TV and Amlak Music."],
     "project": {
-      "title": "",
+      "title": "Enebla",
       "website": "",
-      "thesis-category": [""],
+      "thesis-category": ["Storytelling/Film", "Culture/Issues", "Product Design"],
       "coverImage": "",
       "image": [""],
-      "tags": [""],
-      "description": [""],
-      "studio-professor-1": "",
-      "writing-professor-1": "",
-      "studio-professor-2": "",
-      "writing-professor-2": ""
+      "tags": ["culture", "narratives", "packaging design", "critical design", "immigration", "Etihopia", "product design"],
+      "description": ["A critical design project analyzing the overwhelming complexes immigrants and first generation Ethiopian Americans experience when preserving their cultural. Using food as a vehicle, Enebla uses meal kit design elements to metaphorically highlight the practice of picking and choosing what cultural elements to hold on to, while partaking in the process of assimilation for the sake of surviving in the United States."],
+      "studio-professor-1": "Anthony Deen",
+      "writing-professor-1": "Andrew Zornoza",
+      "studio-professor-2": "Katherine Moriwaki",
+      "writing-professor-2": "Andrew Zornoza"
     }
   },
   {
